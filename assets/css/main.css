@@ -29,8 +29,8 @@
 
 /* Nav Menu Colors - The following color variables are used specifically for the navigation menu. They are separate from the global colors to allow for more customization options */
 :root {
-  --nav-color: rgba(18, 18, 18, 0.6);  /* The default color of the main navmenu links */
-  --nav-hover-color: #3cd719; /* Applied to main navmenu links when they are hovered over or active */
+  --nav-color: rgba(169, 27, 27, 0.6);  /* The default color of the main navmenu links */
+  --nav-hover-color: #292626; /* Applied to main navmenu links when they are hovered over or active */
   --nav-mobile-background-color: #ffffff; /* Used as the background color for mobile navigation menu */
   --nav-dropdown-background-color: #ffffff; /* Used as the background color for dropdown items that appear when hovering over primary navigation items */
   --nav-dropdown-color: #212529; /* Used for navigation links of the dropdown items in the navigation menu. */
@@ -64,6 +64,9 @@ body {
   color: var(--default-color);
   background-color: var(--background-color);
   font-family: var(--default-font);
+  margin: 0;
+  display: flex;
+  flex-direction: column;
 }
 
 a {
@@ -423,6 +426,9 @@ h6 {
   text-align: center;
   padding: 30px 0;
   position: relative;
+  
+  
+ 
 }
 
 .footer h3 {
@@ -438,6 +444,7 @@ h6 {
   font-style: italic;
   padding: 0;
   margin: 0 0 30px 0;
+ 
 }
 
 .footer .social-links {
@@ -468,6 +475,8 @@ h6 {
 .footer .copyright {
   padding-top: 25px;
   border-top: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
+  
+
 }
 
 .footer .credits {
@@ -1598,6 +1607,3 @@ section,
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
-}

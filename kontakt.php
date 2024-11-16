@@ -1,7 +1,5 @@
 
 <?php require_once('./assets/layout/header.php'); ?>
-
-    
     <!-- Contact Section -->
     <section id="contact" class="contact section">
 
@@ -16,29 +14,28 @@
         <div class="row gy-4">
 
           <div class="col-lg-4">
-            <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
-              <i class="bi bi-geo-alt flex-shrink-0"></i>
-              <div>
-                <h3>Meine Adresse</h3>
-                <p>Renatastr. 10 in 45130 Essen</p>
-              </div>
-            </div><!-- End Info Item -->
+              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
+                <i class="bi bi-geo-alt flex-shrink-0"></i>
+                <div>
+                  <h3>Meine Adresse</h3>
+                  <p>Renatastr. 10 in 45130 Essen</p>
+                </div>
+              </div><!-- End Info Item -->
 
-            <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
-              <i class="bi bi-telephone flex-shrink-0"></i>
-              <div>
-                <h3>Telefonisch zu erreichen</h3>
-                <p>+49 1234 5678</p>
-              </div>
-            </div><!-- End Info Item -->
-
-            <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
-              <i class="bi bi-envelope flex-shrink-0"></i>
-              <div>
-                <h3>Meine Email </h3>
-                <p>info@example.com</p>
-              </div>
-            </div><!-- End Info Item -->
+              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
+                  <i class="bi bi-telephone flex-shrink-0"></i>
+                  <div>
+                    <h3>Telefonisch zu erreichen</h3>
+                    <p>+49 1234 5678</p>
+                  </div>
+              </div><!-- End Info Item -->
+              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
+                      <i class="bi bi-envelope flex-shrink-0"></i>
+                      <div>
+                      <h3>Meine Email </h3>
+                      <p>info@example.com</p>
+                    </div>
+              </div><!-- End Info Item -->
 
           </div>
 
@@ -79,6 +76,5 @@
       </div>
 
     </section><!-- /Contact Section -->
-
-  
+    
   <?php require_once('./assets/layout/footer.php'); ?>

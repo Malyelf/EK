@@ -27,14 +27,7 @@
 
   <!-- Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: Avilon
-  * Template URL: https://bootstrapmade.com/avilon-bootstrap-landing-page-template/
-  * Updated: Aug 07 2024 with Bootstrap v5.3.3
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+  
 </head>
 
 <body class="index-page">
@@ -47,16 +40,16 @@
 
       <nav id="navmenu" class="navmenu">
         <ul>
-        <li><a href="./index.php">Navbar</a></li>
+       
         <li><a href="./about.php">About</a></li>
         <li><a href="./index.php">Home</a></li>
-        <li><a href="./about.php">Login</a></li>
+        <li><a href="./login.php">Login</a></li>
         </ul>
           <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
 
     </div>
   </header>
-  
   <main class="main">
+  
   
