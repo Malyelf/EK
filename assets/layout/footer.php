@@ -6,7 +6,10 @@
         <div class="copyright">
           <span>Copyright</span> <strong class="px-1 sitename">Martin</strong> <span>Alle Rechte vorbehalten</span>
         </div>
-       
+        <div class="carousel-container">
+                
+      
+                <p><a href="./secret.php" class="btn-get-started animate__animated animate__fadeInUp scrollto"style="color: var(--background-color);">secret</a></p>
       </div>
     
     </footer>
@@ -24,6 +27,7 @@
 
   <!-- Main JS File -->
   <script src="assets/js/main.js"></script>
+  <script src="deinScript.js"></script>
 
 </body>
 

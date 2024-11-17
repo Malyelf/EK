@@ -15,7 +15,7 @@
                      <div class="our-story">
                               <h1>Martin Kempa</h1>
                                 <p>Wohnhaft in Essen, beruflich befinde mich gerade in einer Umschulung zum Fachinformatiker in DAA Oberhausen und hoffe bald endlich fertig zu werden.</p>
-                                <h5><b><i>Bisher erbrahte Kenntnisse:</i></b></h5>
+                                <h5><b><i>Bisher erbrachte Kenntnisse:</i></b></h5>
                                 <ol>
                                 <li>Grundlagen von HTML </li>
                                 <li>Das HTML-Grundgerüst</li>

@@ -687,6 +687,8 @@ section,
   padding-top: 60px;
 }
 
+
+
 .hero h2 {
   margin-bottom: 30px;
   font-size: 48px;
@@ -1394,7 +1396,7 @@ section,
 
 .gallery .gallery-item:hover img {
   transform: scale(1.1);
-}
+}carousel-container
 
 /*--------------------------------------------------------------
 # Contact Section
