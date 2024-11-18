@@ -41,9 +41,9 @@
       <nav id="navmenu" class="navmenu">
         <ul>
        
-        <li><a href="./about.php">About</a></li>
+        <li><a href="./Login.php">login</a></li>
         <li><a href="./index.php">Home</a></li>
-        <li><a href="./login.php">Login</a></li>
+        <li><a href="./about.php">About</a></li>
         </ul>
           <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>

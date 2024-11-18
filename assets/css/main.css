@@ -1605,7 +1605,10 @@ section,
   margin-right: 8px;
   color: var(--accent-color);
 }
+.secret{
 
+  margin-left: 35%;
+}
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
