@@ -22,8 +22,7 @@
                                 <li>Grundlagen von CSS</li>
                                 <li>Vererbung</li>
                                 <li>Projekterstellung mit Bootstrap</li>
-                                 </ol>
-                                                    
+                                 </ol>                     
                     </div>
                 </div>
             </div>

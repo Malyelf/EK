@@ -9,7 +9,6 @@
                 <p class="animate__animated animate__fadeInUp">Kurs: Webprogramierung by Martin Kempa</p>
                 <a href="./kontakt.php" class="btn-get-started animate__animated animate__fadeInUp scrollto">Kontaktiere mich</a>
 
-
               </div>
 
         </div>

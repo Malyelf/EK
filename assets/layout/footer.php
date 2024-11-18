@@ -7,12 +7,10 @@
           <span>Copyright</span> <strong class="px-1 sitename">Martin</strong> <span>Alle Rechte vorbehalten</span>
         </div>
         <div class="carousel-container">
-                
-      
-                <p><a href="./secret.php" class="btn-get-started animate__animated animate__fadeInUp scrollto"style="color: var(--background-color);">secret</a></p>
+        <p><a href="./secret.php" class="btn-get-started animate__animated animate__fadeInUp scrollto"style="color: var(--background-color);">secret</a></p>
       </div>
     
-    </footer>
+</footer>
 
   <!-- Scroll Top -->
   <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
