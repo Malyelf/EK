@@ -1,8 +1,8 @@
 <?php require_once('./assets/layout/header.php'); ?>
         <div class="container">
          <h1>Geheime Informationen</h1>
-         <p>Vollständiger Name: [Martin Kempa]</p>
-         <p>Adresse: [Renatastr.10, 45130 Essen]</p>
+         <p>Vollständiger Name: [Martin K]</p>
+         <p>Adresse: ""</p>
      </div>
     
      <div class="secret" style="margin-left: 35%;">
