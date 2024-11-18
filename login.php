@@ -12,13 +12,9 @@
                  <input type="password" class="form-control" id="password" placeholder="Passwort eigeben">
              </div>
              <button type="submit" class="btn-get-started animate__animated animate__fadeInUp scrollto">Einloggen</button>
-            <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
          </form>
     </div>
-     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
-     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-     <br>
-
+     
 <?php require_once('./assets/layout/footer.php'); ?>
